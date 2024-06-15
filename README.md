@@ -1,4 +1,4 @@
 # desafio_funciones
 
-https://github.com/BastianFS/desafio_funciones/settings/pages
+https://bastianfs.github.io/desafio_funciones
 
